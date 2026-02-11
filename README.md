@@ -6,7 +6,7 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 
 ---
 
-🚀 **Features**  
+## 🚀 Features
 - **CSV → Excel Conversion**  
   Converts raw CSV deliverables into structured Excel workbooks with professional formatting.  
 
@@ -29,7 +29,7 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 
 ---
 
-🛠️ **Tech Stack**  
+## 🛠️ Tech Stack 
 - Python (automation & GUI)  
 - Tkinter (user interface)  
 - OpenPyXL (Excel file handling)  
@@ -38,7 +38,7 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 
 ---
 
-📂 **Sample Files**  
+## 📂 Sample Files 
 - Input: `DEMO_WAFERMAP_08.wmap.csv`  
 - Output: `DEMO_WAFERMAP_08.wmap.xlsx`  
 - Dashboard Screenshot: `Deliverables Automation Tool v1.1.0.png`  
@@ -47,13 +47,13 @@ These files are included for demonstration purposes so recruiters and collaborat
 
 ---
 
-📸 **Screenshots**
+## 📸 Screenshots
 ### GUI Dashboard
 ![GUI Dashboard](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/blob/main/Deliverables%20Automation%20Tool%20v1.1.0.png)
 
 ---
 
-🌟 **Impact**
+## 🌟 Impact
 - Reduces manual effort in semiconductor deliverables preparation by automating CSV → Excel conversions and pivot table generation.
 - Ensures reproducibility and audit‑ready insights with deterministic wafermap color coding.
 - Improves accuracy in yield and defect tracking through validated End Test numbers and C1_MARK lookup.
@@ -61,13 +61,13 @@ These files are included for demonstration purposes so recruiters and collaborat
 
 ---
 
-📦 **Download**  
+## 📦 Download
 The latest release (**v1.1.0**) with production wafermap color coding is available here:  
 [➡️ Download Deliverables Automation Tool v1.1.0](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/releases/download/v1.1.0/Deliverables.Automation.Tool.v1.1.0.zip)
 
 ---
 
-👩‍💻 **Author**  
+## 👩‍💻 Author 
 **Rose Anne Lafuente**  
 Licensed Electronics Engineer | Product Engineer II | Python Automation  
 GitHub: [@roannelafuente](https://github.com/roannelafuente)
