@@ -48,13 +48,13 @@ These files are included for demonstration purposes so recruiters and collaborat
 ---
 
 📸 **Screenshots**  
-- GUI Dashboard: Deliverables Automation Tool v1.1.0.png 
+![GUI Dashboard](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/blob/main/Deliverables%20Automation%20Tool%20v1.1.0.png)
 
 ---
 
 📦 **Download**  
 The latest release (**v1.1.0**) with production wafermap color coding is available here:  
-➡️ Deliverables Automation Tool v1.1.0  
+[➡️ Download Deliverables Automation Tool v1.1.0](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/releases/download/v1.1.0/Deliverables.Automation.Tool.v1.1.0.zip)
 
 ---
 
