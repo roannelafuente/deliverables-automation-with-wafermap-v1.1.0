@@ -47,8 +47,17 @@ These files are included for demonstration purposes so recruiters and collaborat
 
 ---
 
-📸 **Screenshots**  
+📸 **Screenshots**
+### GUI Dashboard
 ![GUI Dashboard](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/blob/main/Deliverables%20Automation%20Tool%20v1.1.0.png)
+
+---
+
+🌟 **Impact**
+- Reduces manual effort in semiconductor deliverables preparation by automating CSV → Excel conversions and pivot table generation.
+- Ensures reproducibility and audit‑ready insights with deterministic wafermap color coding.
+- Improves accuracy in yield and defect tracking through validated End Test numbers and C1_MARK lookup.
+- Enhances usability with a polished GUI, making engineering workflows faster and more transparent.
 
 ---
 
