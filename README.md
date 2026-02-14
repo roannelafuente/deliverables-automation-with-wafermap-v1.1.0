@@ -40,7 +40,7 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 
 ## 📂 Sample Files 
 - Input: [`DEMO_WAFERMAP_08.wmap.csv` ](https://github.com/roannelafuente/deliverables-automation-with-wafermap/blob/main/DEMO_WAFERMAP_08.wmap.csv) 
-- Output: [`DEMO_WAFERMAP_08.wmap.xlsx`](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/blob/main/DEMO_WAFERMAP_08.wmap%20v1.1.1%20output.xlsx)  
+- Output: [`DEMO_WAFERMAP_08.wmap v1.1.1 output.xlsx`](https://github.com/roannelafuente/deliverables-automation-with-wafermap-v1.1.0/blob/main/DEMO_WAFERMAP_08.wmap%20v1.1.1%20output.xlsx)  
 - Dashboard Screenshot: `Deliverables Automation Tool v1.1.0.png`  
 
 These files are included for demonstration purposes so recruiters and collaborators can quickly test the workflow and visualize the results.
