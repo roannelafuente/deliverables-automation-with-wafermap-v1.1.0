@@ -67,7 +67,8 @@ The latest release (**v1.1.0**) with production wafermap color coding is availab
 
 ---
 
-## 👩‍💻 Author 
+## 👩‍💻 Author
 **Rose Anne Lafuente**  
 Licensed Electronics Engineer | Product Engineer II | Python Automation  
-GitHub: [@roannelafuente](https://github.com/roannelafuente)
+GitHub: [@roannelafuente](https://github.com/roannelafuente)  
+LinkedIn: [Rose Anne Lafuente](www.linkedin.com/in/rose-anne-lafuente)
